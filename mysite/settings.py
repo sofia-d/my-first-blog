@@ -25,7 +25,7 @@ SECRET_KEY = '8jcyfq(5a*pr8g^64qzgl5%#s$u(&9+_^b3#syxj5pc%fsl46%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-girls-sofiad.c9users.io']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
